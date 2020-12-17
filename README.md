@@ -20,4 +20,5 @@ ard = serial.Serial('/dev/ttyACM0', 9600)
 - Pan Tilt
 - Few Jumper cables, and a Bread board
 
-![alt text](https://github.com/kevinopee/Face-Detector-Robot/blob/main/Schematic%20Design%20(1).png?raw=true)
+![alt text](https://github.com/kevinopee/Face-Detector-Robot/blob/main/koko.png?raw=true)
+https://github.com/kevinopee/Face-Detector-Robot/blob/main/koko.png
