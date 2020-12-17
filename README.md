@@ -21,4 +21,3 @@ ard = serial.Serial('/dev/ttyACM0', 9600)
 - Few Jumper cables, and a Bread board
 
 ![alt text](https://github.com/kevinopee/Face-Detector-Robot/blob/main/koko.png?raw=true)
-https://github.com/kevinopee/Face-Detector-Robot/blob/main/koko.png
