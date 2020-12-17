@@ -11,6 +11,8 @@ Change the arduino serial port based on yours.
 ard = serial.Serial('/dev/ttyACM0', 9600) 
 ```
 
+https://github.com/kevinopee/Face-Detector-Robot/blob/main/Face%20Detector%20Robot/Schematic%20Design.png
+
 > Requirements
 
 - Python 3.x+
