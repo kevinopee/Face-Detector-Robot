@@ -11,8 +11,6 @@ Change the arduino serial port based on yours.
 ard = serial.Serial('/dev/ttyACM0', 9600) 
 ```
 
-![alt text](https://github.com/kevinopee/Face-Detector-Robot/blob/main/Schematic%20Design%20(1).png?raw=true)
-
 > Requirements
 
 - Python 3.x+
@@ -21,3 +19,5 @@ ard = serial.Serial('/dev/ttyACM0', 9600)
 - 2x Servo 9g
 - Pan Tilt
 - Few Jumper cables, and a Bread board
+
+![alt text](https://github.com/kevinopee/Face-Detector-Robot/blob/main/Schematic%20Design%20(1).png?raw=true)
