@@ -19,5 +19,6 @@ ard = serial.Serial('/dev/ttyACM0', 9600)
 - 2x Servo 9g
 - Pan Tilt
 - Few Jumper cables, and a Bread board
+- Resistor 220 ohm / 0.25W
 
 ![alt text](https://github.com/kevinopee/Face-Detector-Robot/blob/main/koko.png?raw=true)
