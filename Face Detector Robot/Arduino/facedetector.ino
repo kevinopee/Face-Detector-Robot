@@ -17,11 +17,11 @@ void setup() {
 char input = ""; //variabel serial input
 void loop() {
   // put your main code here, to run repeatedly:
- if(Serial.available()){ //Pengecekan data serial
-  input = Serial.read(); //Pembacaan data serial
+ if(Serial.available()){ //Mengecek data serial
+  input = Serial.read(); //Read data serial
   if(input == 'U'){
-   servoY.write(y+1);    //Perubahan nilai sudut servo berdasarkan input serial
-   y += 1;               //update nilai sudut servo
+   servoY.write(y+1);    //Merubah nilai sudut servo dari input serial
+   y += 1;               // Update nilai sudut servo
   }
   else if(input == 'D'){ 
    servoY.write(y-1);
@@ -40,6 +40,6 @@ void loop() {
   else{
   servoX.write(x);
   }
-  input = "";           //kosongkan variabel
+  input = "";
   }
 }
