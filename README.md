@@ -5,13 +5,13 @@ My september project. But the python code exactly the same(edited a little) from
 
 > But i handled the Arduino by myself.
 
-Change the arduino serial port in the python file based on yours.
+### Change the arduino serial port in the python file based on yours.
 
 ```py
 ard = serial.Serial('/dev/ttyACM0', 9600) 
 ```
 
-> Requirements
+### Requirements
 
 - Python 3.x+
 - OpenCV 4+
