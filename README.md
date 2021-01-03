@@ -1,6 +1,8 @@
 # Face-Detector-Robot
 Face Detector Robot with Arduino and Python OpenCV
 
+Thanks to https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml .
+
 My september project. But the python code exactly the same(edited a little) from the openCV tutorial.
 
 > But i handled the Arduino by myself.
